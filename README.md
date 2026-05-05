@@ -4,7 +4,7 @@ A deep learning project demonstrating end-to-end data ingestion, preprocessing, 
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Project Structure](#project-structure)
