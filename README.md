@@ -40,7 +40,8 @@ Both pipelines feed a shared CNN architecture and demonstrate the impact of **da
 │   │   └── test/           # 300 test images
 │   └── cifar100/
 │       └── cifar100_labels.json
-├── notebook.ipynb          # Main project notebook
+├── coding tutorial for data pipeline for deep learning tasks.ipynb
+├── deep pipeline for deep learning.ipynb          # Main project notebook
 └── README.md
 ```
 
